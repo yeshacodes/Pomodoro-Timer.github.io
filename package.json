@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+<<<<<<< HEAD
   "homepage": "https://yeshacodes.github.io/Pomodoro-Timer.github.io/",
   "scripts": {
   "start": "react-scripts start",
@@ -13,6 +14,14 @@
   "deploy": "gh-pages -d build"
 },
 
+=======
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+>>>>>>> 7e495152142622f3af557c05ec09cc593acc5b22
   "dependencies": {
     "gh-pages": "^6.3.0",
     "react": "^19.0.0",
@@ -30,7 +39,10 @@
     "vite": "^6.2.0",
     "vite-plugin-copy": "^0.1.6"
   }
+<<<<<<< HEAD
 
   
 
+=======
+>>>>>>> 7e495152142622f3af557c05ec09cc593acc5b22
 }
